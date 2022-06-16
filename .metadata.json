@@ -1,0 +1,18 @@
+[
+  {
+    "package": "geofacet",
+    "oncran": true
+  },
+  {
+    "package": "housingData",
+    "oncran": true
+  },
+  {
+    "package": "stlplus",
+    "oncran": true
+  },
+  {
+    "package": "trelliscopejs",
+    "oncran": true
+  }
+]
