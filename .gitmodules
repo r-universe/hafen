@@ -3,6 +3,16 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "geofacet"]
+	path = geofacet
+	url = https://github.com/hafen/geofacet
+	shallow = true
+	registered = true
+[submodule "housingData"]
+	path = housingData
+	url = https://github.com/hafen/housingdata
+	shallow = true
+	registered = true
 [submodule "stlplus"]
 	path = stlplus
 	url = https://github.com/hafen/stlplus
@@ -11,15 +21,5 @@
 [submodule "trelliscopejs"]
 	path = trelliscopejs
 	url = https://github.com/hafen/trelliscopejs
-	shallow = true
-	registered = true
-[submodule "housingData"]
-	path = housingData
-	url = https://github.com/hafen/housingdata
-	shallow = true
-	registered = true
-[submodule "geofacet"]
-	path = geofacet
-	url = https://github.com/hafen/geofacet
 	shallow = true
 	registered = true
