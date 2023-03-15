@@ -1,6 +1,10 @@
 [
   {
-    "package": "geofacet",
+    "package": "stlplus",
+    "oncran": true
+  },
+  {
+    "package": "trelliscopejs",
     "oncran": true
   },
   {
@@ -8,11 +12,7 @@
     "oncran": true
   },
   {
-    "package": "stlplus",
-    "oncran": true
-  },
-  {
-    "package": "trelliscopejs",
+    "package": "geofacet",
     "oncran": true
   }
 ]
